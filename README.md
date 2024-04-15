@@ -1,4 +1,4 @@
-[Iris Photo](static/iris.png)
+![Iris Photo](static/iris.png)
 
 # Iris Linear Regression
 
